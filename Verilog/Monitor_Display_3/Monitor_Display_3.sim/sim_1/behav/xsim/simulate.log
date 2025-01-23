@@ -1,0 +1,16 @@
+Time resolution is 1 ps
+Time = 0 | Counter = 0
+Time = 5 | Counter = 1
+Time = 15 | Counter = 2
+Time = 25 | Counter = 3
+Time = 35 | Counter = 4
+Time = 45 | Counter = 5
+Time = 55 | Counter = 6
+Time = 65 | Counter = 7
+Time = 75 | Counter = 8
+Time = 85 | Counter = 9
+Time = 95 | Counter = 10
+Time = 105 | Counter = 11
+Time = 115 | Counter = 12
+D counter tamamlandi = 12
+$finish called at time : 125 ns : File "C:/Users/Mustafa/Desktop/Verilog/Monitor_Display_3/Monitor_Display_3.srcs/sources_1/new/Monitor_Display_3.v" Line 18
